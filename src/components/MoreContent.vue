@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">Ciallo~</div>
+  <div class="more-content">你好~</div>
 </template>
 
 <style lang="scss" scoped>
